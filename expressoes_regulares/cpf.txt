@@ -1,0 +1,41 @@
+'''
+Criar regex pelo LOCALIZAR E SUBSTITUIR (CTRL+F) que:
+
+1. valida CPF 
+2. validar data
+3. Substituir reorganizar data
+4. Localizar padrão dentro de texto
+'''
+___________________________________
+
+Padrão 1:
+436.902.458-77
+
+Solução 1:
+^[0-9]{3}.[0-9]{3}.[0-9]{3}-[0-9]{2}$
+
+Solução 2:
+^\d{3}.\d{3}.\d{3}-\d{2}$
+
+___________________________________
+
+Padrão 2 (CPF unido à letras/ palavras):
+abc436.902.458-77def
+
+Solução 1:
+[0-9]{3}.[0-9]{3}.[0-9]{3}-[0-9]{2}
+
+Solução 2:
+\d{3}.\d{3}.\d{3}-\d{2}
+
+
+___________________________________
+
+Padrão 3 (data no padrão americano):
+18/05/2010
+
+Solução:
+
+
+___________________________________
+
