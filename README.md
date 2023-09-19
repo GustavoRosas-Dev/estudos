@@ -1,8 +1,25 @@
+<!-- Menu de Navegação -->
+<div align="center">
+    <a href="#sobre-este-repositório">Sobre este Repositório</a> •
+    <a href="#pastas-principais">Pastas Principais</a> •
+    <a href="#como-usar-este-repositório">Como Usar Este Repositório</a> •
+    <a href="#contribuições">Contribuições</a> •
+    <a href="#contato">Contato</a>
+</div>
+
 <div align="center">
     <h1>Repositório de Estudos</h1>
 </div>
 <div align="center">
     <p>Bem-vindo ao meu espaço de aprendizado e experimentação!</p>
+</div>
+
+<!-- Badges de Gameficação -->
+<div align="center">
+    <img src="https://img.shields.io/badge/Nível-Júnior-brightgreen" alt="Nível: Júnior">
+    <img src="https://img.shields.io/badge/XP-1000-blueviolet" alt="XP: 1000">
+    <img src="https://img.shields.io/badge/Fase-Estudos%20Intensivos-yellow" alt="Fase: Estudos Intensivos">
+    <img src="https://img.shields.io/badge/Conquistas-5-yellowgreen" alt="Conquistas: 5">
 </div>
 
 ## Sobre este Repositório
