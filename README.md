@@ -7,6 +7,7 @@
     <a href="#contato">Contato</a>
 </div>
 
+<!-- Título e subtítulo -->
 <div align="center">
     <h1>Repositório de Estudos</h1>
 </div>
@@ -24,7 +25,7 @@
 
 ## Sobre este Repositório
 
-Este repositório é um registro dos meus estudos e experimentos em programação. Cada pasta representa uma área de aprendizado específica, e os scripts e arquivos contidos nelas são uma coleção das minhas descobertas e projetos de aprendizado.
+Este repositório é um registro dos **meus novos estudos** em programação. Cada pasta representa uma área de aprendizado específica, e os scripts e arquivos contidos nelas são uma coleção das minhas **novas descobertas** e projetos de aprendizado.
 
 ## Pastas Principais
 
